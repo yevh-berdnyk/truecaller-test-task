@@ -1,0 +1,7 @@
+.DS_Store
+*.pyc
+.cache
+.pytest_cache
+.idea
+result.xml
+/output
